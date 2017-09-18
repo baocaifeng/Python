@@ -1,1 +1,1 @@
-#WorkspaceOfPython
+# Python
