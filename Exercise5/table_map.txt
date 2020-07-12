@@ -1,0 +1,15 @@
+天气: weather
+温度: temperature
+湿度: humidity
+风况: wind
+运动: activity
+
+晴: sunny
+多云: cloudy
+有雨: rainy
+
+有: yes
+无: no
+
+不适合: can't
+适合: can

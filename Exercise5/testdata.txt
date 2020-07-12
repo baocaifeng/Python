@@ -1,0 +1,15 @@
+weather, temperature, humidity, wind, activity
+sunny, 85, 85, no, can't
+sunny, 80, 90, yes, can't
+cloudy, 83, 78, no, can
+rainy, 70, 96, no, can
+rainy, 68, 80, no, can
+rainy, 65, 70, yes, can't
+cloudy, 64, 65, yes, can
+sunny, 72, 95, no, can't
+sunny, 69, 70, no, can
+rainy, 75, 80, no, can
+sunny, 75, 70, yes, can
+cloudy, 72, 90, yes, can
+cloudy, 81, 75, no, can
+rainy, 71, 80, yes, can't
